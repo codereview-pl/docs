@@ -1,5 +1,5 @@
 
-## [docs.codereeview.pl](http://docs.codereeview.pl) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/codereview-pl/docs/edit/main/DOCS.md)
+## [docs.codereview.pl](http://docs.codereview.pl) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/codereview-pl/docs/edit/main/DOCS.md)
 
 Jak pracować z dokumentacją?
 
