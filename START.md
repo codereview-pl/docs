@@ -1,0 +1,6 @@
+
+## START [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/codereview-pl/docs/edit/main/START.md)
+
+W budowie jest aplikacja do tworzenia zadań
+
+Code Review na poważnie, metody, przykłady, skutki niskiej jakości kodu
